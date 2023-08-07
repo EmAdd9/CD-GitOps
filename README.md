@@ -1,2 +1,2 @@
-# GitOps-CD
+# GitOps-Continuous-Deployment
 # Sudeb(@EmAdd9)
